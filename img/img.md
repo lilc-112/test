@@ -1,3 +1,3 @@
 Here are some pictures.
 
-![SAO](\SAO.png)
+![SAO](https://github.com/lilc-112/test/blob/main/img/SAO.png)
